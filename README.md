@@ -11,7 +11,7 @@ studies in Software Engineering and QE at Makers have equipped
 me with skills in automation, taking my manual testing expertise
 to the next level. I thrive on adapting to industry trends,
 collaborating in team-based problem-solving, and optimising QA
-processes
+processes.
 
 
 ## Projects :computer:
@@ -24,7 +24,6 @@ processes
 | **[OppoGames-QE](https://github.com/romaingrude/OppoGames-QE)**                | The test suite created for the OppoGames website login/signup features.          | Java, Selenium |
 | **[Twilio Project](https://github.com/romaingrude/Twilio_project)**                | A simple takeaway food ordering program with a basic interface.           | Python, Twilio API |
 
-Thank you for clarifying. Here’s the revised CV with the correct information:
 
 ## Skills :white_check_mark:
 
@@ -89,7 +88,7 @@ LQA Project Coordinator & Senior Tester
 - Honed skills in leveraging Java to create efficient and scalable automated tests, contributing to a holistic grasp of Quality Engineering principles and practices.
 - Cultivated a never-ending curiosity for coding and new technologies
 
-#### University of West London (September 2017 - June 2019)
+#### University of West London (September 2018 - June 2019)
 - Master of Arts in Music Performance with Studio Recording and Sound Engineering
 
 #### Other Languages 🌎
