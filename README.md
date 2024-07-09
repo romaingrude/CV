@@ -69,7 +69,7 @@ LQA Project Coordinator & Senior Tester
 * Establish clear, open and responsive communication with Clients
 * Liaise with Clients to ensure all required assets and information are received/relayed prior to the commencement of project testing
 * Coordinate the team and own projects with allocation and delegation of tasks as necessary; monitor timekeeping, billable overtime, etc
-* Organize monthly mentoring and goal setting sessions with direct reports
+* Organise monthly mentoring and goal setting sessions with direct reports
 * Ensure projects KPIs and deadlines are met
 * Monitor bug databases, smart defect vetting delegation
 * Perform Technician and/or Lead duties when required
