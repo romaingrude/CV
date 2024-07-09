@@ -36,7 +36,7 @@ processes.
 * At Square Enix, during a peak testing period, I proactively offered support to overwhelmed team members. I assisted with various testing tasks, ensuring that all testing protocols were followed accurately and on time. I also helped address technical and gameplay issues, maintaining a high level of satisfaction among stakeholders. My collaborative approach and willingness to support the team contributed to our success.
 
 **Problem Solving**
-* A competent problem solver. At Square Enix, we encountered an unforeseen issue with localization that required quick thinking and effective problem-solving. Realizing the potential impact of this error, I immediately took ownership of the situation and commenced troubleshooting. I quickly identified several issues contributing to the problem: incorrect translations during the localization process, a miscommunication between the localization team and the developers, and a failure in the quality assurance process. Through this experience, I realized the value of maintaining meticulous attention to detail, effective communication, and a systematic problem-solving approach in a fast-paced tech environment.
+* A competent problem solver. At Square Enix, we encountered an unforeseen issue with localisation that required quick thinking and effective problem-solving. Realizing the potential impact of this error, I immediately took ownership of the situation and commenced troubleshooting. I quickly identified several issues contributing to the problem: incorrect translations during the localisation process, a miscommunication between the localisation team and the developers, and a failure in the quality assurance process. Through this experience, I realized the value of maintaining meticulous attention to detail, effective communication, and a systematic problem-solving approach in a fast-paced tech environment.
 * I have cultivated a keen analytical mindset that empowers me to approach challenges with innovative problem-solving strategies with a customer centric approach. Whether it's dissecting complex coding issues or devising creative coaching techniques, my ability to analyze situations critically and develop effective solutions has been instrumental in my professional journey.
 
 **Attention to Detail**
@@ -51,7 +51,7 @@ processes.
 Online QA Tester
 * Led comprehensive PC platform game testing, meticulously identifying and validating software defects for seamless user experiences.
 * Executed detailed manual testing protocols, showcasing a keen eye for technical and gameplay issues.
-* Spearheaded linguistic and cultural localization testing, collaborating with cross-functional teams to ensure accurate adaptations for global audiences.
+* Spearheaded linguistic and cultural localisation testing, collaborating with cross-functional teams to ensure accurate adaptations for global audiences.
 * Played a key role in developing and enhancing detailed test plans, employing a systematic approach to address diverse game elements.
 * Generated insightful reports documenting defects, linguistic errors, and QA findings, offering actionable insights for efficient issue resolution and improved product quality.
 * Actively contributed to refining QA processes, streamlining workflows for enhanced efficiency and accuracy.
@@ -76,17 +76,17 @@ LQA Project Coordinator & Senior Tester
 
 ## Education :student:
 
-#### Makers Academy - Quality Engineering - (October 2023 top January 2024)
+#### Makers Academy - Quality Engineering - (October 2023 to January 2024)
 - Developed a comprehensive understanding of Quality Engineering, with a focus on Python and Java fundamentals using IntelliJ as my primary development environment.
 - Learned and maintained best practices for coding (e.g., TDD, XP Values, Agile approach).
-     * Languages: Java, JavaScript, Node, React, CSS, HTML, Ruby.
-     * Testing: Selenium, Postman, Cypress, Jest, Rspec.
+     * Languages: Pythonn, Java, JavaScript, Node, React, CSS, HTML.
+     * Testing: Selenium, Playwright, Postman, Cypress, Jest, JUnit, Pytest.
      * Databases: MongoDB, MySql, Postgres.
      * Version control: Git, GitHub.
 - Gained proficiency in end-to-end testing with Selenium, acquiring hands-on experience in automating checks and extending testing capabilities.
 - Crafted robust test suites and ensured the effective validation of software functionalities.
 - Honed skills in leveraging Java to create efficient and scalable automated tests, contributing to a holistic grasp of Quality Engineering principles and practices.
-- Cultivated a never-ending curiosity for coding and new technologies
+- Cultivated a never-ending curiosity for coding and new technologies.
 
 #### University of West London (September 2018 - June 2019)
 - Master of Arts in Music Performance with Studio Recording and Sound Engineering
