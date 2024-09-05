@@ -14,7 +14,7 @@ I thrive on adapting to industry trends, collaborating in team-based problem-sol
 | ---------------------------- | ------------------------------- | ------------------------- |
 | **[Yagro QA Challenge](https://github.com/romaingrude/Yagro-QA-Test)**                | A QA Automation Challenge performed against a test version of a website.          | Javascript, Playwright |
 | **[MakersBnB Python Project](https://github.com/romaingrude/Engineering_Project_1)**           | A BnB-type web app using Flask framework and OOP principles. | Python, Flask, HTML, CSS |
-| **[OppoGames](https://github.com/romaingrude/oppo-games-group6)**                   | Social mini-games website with multiplayer system.                | MERN stack(MongoDB, Express, React and Node), Javascript, HTML, CSS |
+| **[OppoGames](https://github.com/romaingrude/oppo-games-group6)**                   | Final Engineering project at Makers. OppoGames is a social mini-games website with multiplayer system.                | MERN stack(MongoDB, Express, React and Node), Javascript, HTML, CSS |
 | **[OppoGames-QE](https://github.com/romaingrude/OppoGames-QE)**                     | Automation test suite created for the OppoGames website login/signup features.          | Java, Selenium |
 | **[Twilio Project](https://github.com/romaingrude/Twilio_project)**                | A simple takeaway food ordering program with a basic interface.           | Python, Twilio API |
 | **[TodoMVC Automation (React)](https://github.com/romaingrude/todomvc-automation)** | One of my first Automation challenges aiming to test the Todo functionality of the TodoMVC website. Includes a GitHub Action workflow for Continuous Integration and test run automation for merges on the main branch | Java, Selenium |
