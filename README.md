@@ -14,9 +14,10 @@ I thrive on adapting to industry trends, collaborating in team-based problem-sol
 | ---------------------------- | ------------------------------- | ------------------------- |
 | **[Yagro QA Challenge](https://github.com/romaingrude/Yagro-QA-Test)**                | A QA Automation Challenge performed against a test version of a website.          | Javascript, Playwright |
 | **[MakersBnB Python Project](https://github.com/romaingrude/Engineering_Project_1)**           | A BnB-type web app using Flask framework and OOP principles. | Python, Flask, HTML, CSS |
-| **[OppoGames](https://github.com/romaingrude/oppo-games-group6)**                  | Social mini-games website with multiplayer system.                | MERN stack(MongoDB, Express, React and Node), Javascript, HTML, CSS |
-| **[OppoGames-QE](https://github.com/romaingrude/OppoGames-QE)**                | Automation test suite created for the OppoGames website login/signup features.          | Java, Selenium |
+| **[OppoGames](https://github.com/romaingrude/oppo-games-group6)**                   | Social mini-games website with multiplayer system.                | MERN stack(MongoDB, Express, React and Node), Javascript, HTML, CSS |
+| **[OppoGames-QE](https://github.com/romaingrude/OppoGames-QE)**                     | Automation test suite created for the OppoGames website login/signup features.          | Java, Selenium |
 | **[Twilio Project](https://github.com/romaingrude/Twilio_project)**                | A simple takeaway food ordering program with a basic interface.           | Python, Twilio API |
+| **[TodoMVC Automation (React)](https://github.com/romaingrude/todomvc-automation)** | One of my first Automation challenges aiming to test the Todo functionality of the TodoMVC website. | Java, Selenium |
 
 
 ## Skills :white_check_mark:
@@ -41,7 +42,7 @@ I thrive on adapting to industry trends, collaborating in team-based problem-sol
 
 ## Work Experience :briefcase:
 
-**Square Enix** (2022 to 2023)  
+**Square Enix** (2022-2023)  
 Online QA Tester
 * Led comprehensive PC platform game testing, meticulously identifying and validating software defects for seamless user experiences.
 * Executed detailed manual testing protocols, showcasing a keen eye for technical and gameplay issues.
@@ -51,14 +52,14 @@ Online QA Tester
 * Actively contributed to refining QA processes, streamlining workflows for enhanced efficiency and accuracy.
 * Collaborated on implementing best practices, supporting continuous improvement initiatives.
 
-**TikTok** (2021 to 2022)  
+**TikTok** (2021-2022)  
 Community Content Specialist
 * Responsible for the content safety of short video products, ensuring their legal compliance
 * Responsible for developing, maintaining and implementing Community Content Security standard
 * Engaging in the improvement and operation strategies of Content Management System
 * Coordinating with supervising departments to timely deal with contents violating our community regulation, and to updateoperation standards.
 
-**Pole To Win International** (2019 to 2021)  
+**Pole To Win International** (2019-2021)  
 LQA Project Coordinator & Senior Tester
 * Establish clear, open and responsive communication with Clients
 * Liaise with Clients to ensure all required assets and information are received/relayed prior to the commencement of project testing
@@ -70,7 +71,7 @@ LQA Project Coordinator & Senior Tester
 
 ## Education :student:
 
-#### Makers Academy - Quality Engineering - (October 2023 to January 2024)
+#### Makers Academy - Quality Engineering - (2023-2024)
 - Developed a comprehensive understanding of Quality Engineering, with a focus on Python and Java fundamentals using IntelliJ as my primary development environment.
 - Learned and maintained best practices for coding (e.g., TDD, XP Values, Agile approach).
      * Languages: Pythonn, Java, JavaScript, Node, React, CSS, HTML.
@@ -82,8 +83,12 @@ LQA Project Coordinator & Senior Tester
 - Honed skills in leveraging Java to create efficient and scalable automated tests, contributing to a holistic grasp of Quality Engineering principles and practices.
 - Cultivated a never-ending curiosity for coding and new technologies.
 
-#### University of West London (September 2018 - June 2019)
-- Master of Arts in Music Performance with Studio Recording and Sound Engineering
+#### University of West London (2018-2019)
+- Masters of Music - MMus (RQF Level 7)
+Music Performance with Studio Recording and Sound Engineering.
+
+#### British Institute of Modern Music (September 2018 - June 2019)
+- FHEQ Level 6 (BMus in Popular Music Performance)
 
 #### Other Languages 🌎
 * French - Native
