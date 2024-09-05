@@ -2,14 +2,17 @@
 * romaingrude@yahoo.fr
 * 07762888911
 
-Versatile Quality Engineer with a proactive approach and a strong commitment to continuous learning. With a background in comprehensive testing, localisation excellence, and content safety at companies like Square Enix and TikTok, I bring a wealth of experience ensuring seamless user experiences. My recent studies in Software Engineering and QE at Makers have equipped me with automation skills, taking my manual testing expertise to the next level. I thrive on adapting to industry trends, collaborating in team-based problem-solving, and optimising QA processes.
+Versatile Quality Engineer with a proactive approach and a strong commitment to continuous learning. 
+With a background in comprehensive testing, localisation excellence, and content safety at companies like Square Enix and TikTok, I bring a wealth of experience ensuring seamless user experiences. 
+My recent studies in Software Engineering and QE at Makers have equipped me with automation skills, taking my manual testing expertise to the next level. 
+I thrive on adapting to industry trends, collaborating in team-based problem-solving, and optimising QA processes.
 
 
 ## Projects :computer:
 
 | Name                         | Description                     | Tech/tools                |
 | ---------------------------- | ------------------------------- | ------------------------- |
-| **[Yagro QA Challenge](https://github.com/romaingrude/Yagro-QA-Test)**                | A QA Challenge performed against a test version of a website.          | Javascript, Playwright |
+| **[Yagro QA Challenge](https://github.com/romaingrude/Yagro-QA-Test)**                | A QA Automation Challenge performed against a test version of a website.          | Javascript, Playwright |
 | **[MakersBnB Python Project](https://github.com/romaingrude/Engineering_Project_1)**           | A BnB-type web app using Flask framework and OOP principles. | Python, Flask, HTML, CSS |
 | **[OppoGames](https://github.com/romaingrude/oppo-games-group6)**                  | Social mini-games website with multiplayer system.                | MERN stack(MongoDB, Express, React and Node), Javascript, HTML, CSS |
 | **[OppoGames-QE](https://github.com/romaingrude/OppoGames-QE)**                | The test suite created for the OppoGames website login/signup features.          | Java, Selenium |
