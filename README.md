@@ -2,16 +2,7 @@
 * romaingrude@yahoo.fr
 * 07762888911
 
-Versatile Quality Engineer with a proactive approach and a strong
-commitment to continuous learning. With a background in
-comprehensive testing, localisation excellence, and content safety
-at companies like Square Enix and TikTok, I bring a wealth of
-experience in ensuring seamless user experiences. My recent
-studies in Software Engineering and QE at Makers have equipped
-me with skills in automation, taking my manual testing expertise
-to the next level. I thrive on adapting to industry trends,
-collaborating in team-based problem-solving, and optimising QA
-processes.
+Versatile Quality Engineer with a proactive approach and a strong commitment to continuous learning. With a background in comprehensive testing, localisation excellence, and content safety at companies like Square Enix and TikTok, I bring a wealth of experience ensuring seamless user experiences. My recent studies in Software Engineering and QE at Makers have equipped me with automation skills, taking my manual testing expertise to the next level. I thrive on adapting to industry trends, collaborating in team-based problem-solving, and optimising QA processes.
 
 
 ## Projects :computer:
